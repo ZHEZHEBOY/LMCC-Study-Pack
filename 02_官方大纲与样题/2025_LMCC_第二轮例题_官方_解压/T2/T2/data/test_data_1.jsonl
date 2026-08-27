@@ -1,0 +1,10 @@
+{"text1": "12 + 35", "text2": "12 + 35", "description": "完全相同", "standard_similarity": 1.00000000}
+{"text1": "12 + 35", "text2": "12＋35", "description": "符号不同", "standard_similarity": 0.87700665}
+{"text1": "12 + 35", "text2": "35 + 12", "description": "顺序不同", "standard_similarity": 0.869397521}
+{"text1": "12 + 35", "text2": "12 加 35", "description": "文字表达", "standard_similarity": 0.7722651958}
+{"text1": "12 + 35", "text2": "计算：12 加 35", "description": "带前缀", "standard_similarity": 0.7667706013}
+{"text1": "12 + 35", "text2": "12 - 35", "description": "运算不同", "standard_similarity": 0.8348337412}
+{"text1": "12 + 35", "text2": "23 + 46", "description": "数字不同", "standard_similarity": 0.8180830479}
+{"text1": "12 + 35", "text2": "请问 5 的平方是多少？", "description": "完全不同", "standard_similarity": 0.4700432718}
+{"text1": "(12 + 35) × 2", "text2": "(12＋35)×2", "description": "复杂表达式", "standard_similarity": 0.9479002357}
+{"text1": "6 的平方", "text2": "6^2", "description": "幂运算", "standard_similarity": 0.7959112525}

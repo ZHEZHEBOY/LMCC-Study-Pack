@@ -1,0 +1,9 @@
+.DS_Store
+._*
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+*.py[cod]
